@@ -1,2 +1,2 @@
 # major-project
-this is regarding about major pr0ject
+this is regarding about major project
